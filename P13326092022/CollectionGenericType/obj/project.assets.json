@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hamid.mammadov\\Desktop\\P133\\P13326092022\\CollectionGenericType\\CollectionGenericType.csproj",
+      "projectUniqueName": "C:\\Users\\hamid.mammadov\\Desktop\\P133_CSharp_26-09-2022_CollectionGenericType\\P13326092022\\CollectionGenericType\\CollectionGenericType.csproj",
       "projectName": "CollectionGenericType",
-      "projectPath": "C:\\Users\\hamid.mammadov\\Desktop\\P133\\P13326092022\\CollectionGenericType\\CollectionGenericType.csproj",
+      "projectPath": "C:\\Users\\hamid.mammadov\\Desktop\\P133_CSharp_26-09-2022_CollectionGenericType\\P13326092022\\CollectionGenericType\\CollectionGenericType.csproj",
       "packagesPath": "C:\\Users\\hamid.mammadov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hamid.mammadov\\Desktop\\P133\\P13326092022\\CollectionGenericType\\obj\\",
+      "outputPath": "C:\\Users\\hamid.mammadov\\Desktop\\P133_CSharp_26-09-2022_CollectionGenericType\\P13326092022\\CollectionGenericType\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
       }
     }
   }

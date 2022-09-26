@@ -6,7 +6,7 @@ using System.Text;
 namespace CollectionGenericType
 {
     //Generic Type Collection
-    class MyCollection<T,U> where T : U where U : class,new()
+    class MyCollection<T/*,U*/> /*where T : U where U : class,new()*/
     {
         T[] arr;
 

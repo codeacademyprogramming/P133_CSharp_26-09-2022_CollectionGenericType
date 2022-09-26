@@ -6,6 +6,6 @@ namespace CollectionGenericType.Models
 {
     class Student : Human
     {
-        public MyCollection<Test,object> MyCollection;
+        //public MyCollection<Test,object> MyCollection;
     }
 }
